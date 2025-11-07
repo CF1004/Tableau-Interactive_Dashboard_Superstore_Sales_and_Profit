@@ -40,5 +40,5 @@ Inefficient Sub-Categories (high sales + negative profit).
 
 ## 🖼️ Preview
 
-
+![Superstore_Sales_and_Proft](Superstore_Sales_and_Profit.png)
 
