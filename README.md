@@ -28,7 +28,7 @@ A filled map showing:
 - Sales performance across U.S. States
 - Light = Low Sales; Dark = High Sales
 Quickly highlights strong territories.
-
+---
 4. Profit vs Sales Scatter Plot
 - X-axis: Sales
 - Y-axis: Profit
@@ -41,4 +41,7 @@ Inefficient Sub-Categories (high sales + negative profit).
 ## 🖼️ Preview
 
 ![Superstore_Sales_and_Proft](Superstore_Sales_and_Profit.png)
+
+## 💾 How to Use
+
 
