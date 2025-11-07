@@ -10,6 +10,7 @@ This visualization answers key business performance questions:
 The dashboard allows users to explore performance from multiple business angles, interactively.
 
 🧭 Features
+---
 1. Sales & Profit Over Time
 
 A dual-axis time-series chart showing:
