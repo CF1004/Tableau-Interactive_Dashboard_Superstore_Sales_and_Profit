@@ -44,4 +44,13 @@ Inefficient Sub-Categories (high sales + negative profit).
 
 ## 💾 How to Use
 
+1. Download the `.twbx` file included in this repository.  
+2. Open it in **Tableau Public** (free version available at [public.tableau.com](https://www.tableau.com/community/public)).  
+3. Click on a State in order for all other charts to update and show only data for this specific state.
+
+## 🔍 Key Insights
+- Technology drives strong revenue growth.
+- Office Supplies show strong margins relative to volume.
+- Southern States underperform -> look into marketing?
+- Several high-revenue sub-categories have negative profit → potential pricing or expenses issues.
 
