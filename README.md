@@ -12,11 +12,33 @@ The dashboard allows users to explore performance from multiple business angles,
 ## 🧭 Features
 ---
 1. Sales & Profit Over Time
-
 A dual-axis time-series chart showing:
-
-Sales (area) to represent revenue volume.
-
-Profit (line) to represent business performance.
-
+- Sales (line) to represent revenue.
+- Profit (area) to represent earnings.
 This makes divergence visible (e.g., high sales + low profit = margin pressure).
+---
+2. Profit by Category
+Horizontal bar chart that breaks down:
+- Product Categories and Sub-Categories
+- Showing which product lines drive profit and which produce losses.
+Reveals margin inefficiencies clearly.
+---
+3. Sales by Region (Interactive Map - all data adjusts when you click on a state to show only data of that specific state in the other charts)
+A filled map showing:
+- Sales performance across U.S. States
+- Light = Low Sales; Dark = High Sales
+Quickly highlights strong territories.
+
+4. Profit vs Sales Scatter Plot
+- X-axis: Sales
+- Y-axis: Profit
+Color: Product Category
+This helps identify high and low performers and
+Inefficient Sub-Categories (high sales + negative profit).
+
+---
+
+## 🖼️ Preview
+
+
+
