@@ -30,6 +30,7 @@ Reveals margin inefficiencies clearly.
 ---
 
 3. Sales by Region (Interactive Map - all data adjusts when you click on a state to show only data of that specific state in the other charts)
+
 A filled map showing:
 - Sales performance across U.S. States
 - Light = Low Sales; Dark = High Sales
