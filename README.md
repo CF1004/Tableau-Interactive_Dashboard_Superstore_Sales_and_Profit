@@ -12,6 +12,7 @@ The dashboard allows users to explore performance from multiple business angles,
 ## 🧭 Features
 ---
 1. Sales & Profit Over Time
+   
 A dual-axis time-series chart showing:
 - Sales (line) to represent revenue.
 - Profit (area) to represent earnings.
@@ -21,6 +22,7 @@ This makes divergence visible (e.g., high sales + low profit = margin pressure).
 ---
 
 2. Profit by Category
+   
 Horizontal bar chart that breaks down:
 - Product Categories and Sub-Categories
 - Showing which product lines drive profit and which produce losses.
